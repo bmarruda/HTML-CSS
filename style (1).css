@@ -1,0 +1,35 @@
+
+        
+.big {
+    width: 700px;
+    height: 700px;
+    background-color: #b651e1;
+}
+
+
+.small {
+    width: 80%;
+    height: 80%;
+    background-color: #f22090;
+}
+
+
+.paragrafo {
+    color: lightcoral;
+    background-color: #00ffc8;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.green {
+    width: 70%;
+    height: 70vh;
+    background-color: rgb(209, 127, 236);
+}
+
+
+.blue {
+    width: 80vw;
+    height: 60%;
+    background-color: rgb(4, 0, 255);
+}
